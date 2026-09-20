@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://observersports.github.io/sitemap.xml
