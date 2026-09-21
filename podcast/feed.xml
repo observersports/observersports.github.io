@@ -23,6 +23,24 @@
       <itunes:email>lyugwang949@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>2화 · 텔레그램 스포츠 채널 오늘의 야구 브금</title>
+      <description>옵저버 스포츠 텔레그램 채널의 야구 콘텐츠와 함께 듣는 짧은 배경음악입니다. 경기 일정과 선발·라인업 소식은 텔레그램 @observer_sports에서 확인할 수 있습니다.</description>
+      <content:encoded><![CDATA[
+        <p>옵저버 스포츠 텔레그램 채널의 야구 콘텐츠와 함께 듣는 짧은 배경음악입니다.</p>
+        <p>텔레그램 <a href="https://t.me/observer_sports">@observer_sports</a></p>
+      ]]></content:encoded>
+      <link>https://observersports.github.io/podcast/</link>
+      <guid isPermaLink="false">observer-sports-episode-002-baseball-bgm</guid>
+      <pubDate>Mon, 21 Sep 2026 17:00:00 +0900</pubDate>
+      <enclosure url="https://observersports.github.io/podcast/episode-002-baseball-bgm.mp3" length="780588" type="audio/mpeg" />
+      <itunes:author>옵저버 스포츠</itunes:author>
+      <itunes:duration>00:00:33</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://observersports.github.io/podcast/podcast-cover.png" />
+    </item>
+    <item>
       <title>1화 · 텔레그램 스포츠에서 중계·분석·토토·프로토 정보를 확인하는 순서</title>
       <description>경기 날짜와 한국시간, 예상 라인업과 공식 선발 명단, 시즌 기록과 최근 흐름을 구분합니다. 텔레그램 스포츠 채널의 스포츠 중계·경기 분석·토토·프로토·스포츠사이트 정보를 볼 때 공식 출처와 피해예방 정보를 먼저 확인하는 방법입니다. 텔레그램 @observer_sports: https://t.me/observer_sports</description>
       <content:encoded><![CDATA[
