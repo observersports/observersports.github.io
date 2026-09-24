@@ -23,6 +23,25 @@
       <itunes:email>lyugwang949@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>3화 · 옵저버 스포츠 — 경기 전 분위기를 여는 축구 BGM</title>
+      <description>옵저버 스포츠의 자체 제작 축구 BGM입니다. 경기 전 분위기와 함께 듣는 약 45초 음악 에피소드입니다. 스포츠 중계 일정·선발·선수 기록과 경기 분석 소식은 텔레그램 @observer_sports에서 확인하세요. 이 에피소드는 음악이며 경기 중계나 음성 분석 방송이 아닙니다.</description>
+      <content:encoded><![CDATA[
+        <p>옵저버 스포츠의 자체 제작 축구 BGM. 경기 전 분위기를 여는 약 45초 음악 에피소드입니다.</p>
+        <p>스포츠 중계 일정·선발·선수 기록과 경기 분석 소식은 <a href="https://t.me/observer_sports">옵저버 스포츠 텔레그램 채널</a>에서 확인하세요.</p>
+        <p>이 에피소드는 음악 콘텐츠이며 경기 중계나 음성 분석 방송이 아닙니다.</p>
+      ]]></content:encoded>
+      <link>https://observersports.github.io/podcast/#episode-003</link>
+      <guid isPermaLink="false">observer-sports-episode-003-football-bgm</guid>
+      <pubDate>Thu, 24 Sep 2026 16:17:00 +0900</pubDate>
+      <enclosure url="https://observersports.github.io/podcast/episode-003-football-bgm.mp3" length="1073369" type="audio/mpeg" />
+      <itunes:author>옵저버 스포츠</itunes:author>
+      <itunes:duration>00:00:45</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://observersports.github.io/podcast/podcast-cover.png" />
+    </item>
+    <item>
       <title>2화 · 텔레그램 스포츠 채널 오늘의 야구 브금</title>
       <description>옵저버 스포츠 텔레그램 채널의 야구 콘텐츠와 함께 듣는 짧은 배경음악입니다. 경기 일정과 선발·라인업 소식은 텔레그램 @observer_sports에서 확인할 수 있습니다.</description>
       <content:encoded><![CDATA[
